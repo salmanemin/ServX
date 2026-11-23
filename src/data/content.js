@@ -160,7 +160,7 @@ export const content = {
         title: 'Free 27 Tools on GitHub 🎁',
         subtitle: 'A simple QR tool — free, no ads.',
         color: 'red',
-        href: 'https://x5p8r.github.io/flux',
+        href: 'https://x5p8r.github.io/flux/',
         external: true,
       },
     ],
