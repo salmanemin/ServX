@@ -71,7 +71,7 @@ export const content = {
         title: '27 اداة مجانية على قيت هب 🎁',
         subtitle: 'أداة بسيطة لتوليد رموز QR مجاناً وبدون إعلانات.',
         color: 'red',
-        href: 'https://x5p8r.github.io/flux',
+        href: 'https://salmanemin.github.io/flux/',
         external: true,
       },
     ],
